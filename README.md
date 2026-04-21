@@ -1,6 +1,6 @@
 # ✉️ Help2Mail
 
-> **Bulk Email Campaign Manager** — Send personalized job applications from your Gmail account with a single form submission.
+> **Bulk Email Campaign Manager** — Send personalized job applications from your Gmail account with a single form submission...
 
 <div align="center">
 
